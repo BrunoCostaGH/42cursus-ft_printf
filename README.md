@@ -3,8 +3,8 @@
 ## Description
 This project is pretty straightforward, you have to recode printf. You will learn what is and how to implement variadic functions. Once you validate it, you will reuse this function in your future projects.
 
-
-![contributors](https://flat.badgen.net/github/contributors/BrunoCostaGH/42cursus-ft_printf)
-![issues](https://flat.badgen.net/github/issues/BrunoCostaGH/42cursus-ft_printf)
-![commits](https://flat.badgen.net/github/commits/BrunoCostaGH/42cursus-ft_printf/master)
-![license](https://flat.badgen.net/github/license/BrunoCostaGH/42cursus-ft_printf)
+![GitHub](https://img.shields.io/github/license/BrunoCostaGH/42cursus-ft_printf?style=for-the-badge)
+![GitHub contributors](https://img.shields.io/github/contributors/BrunoCostaGH/42cursus-ft_printf?style=for-the-badge)
+![GitHub issues](https://img.shields.io/github/issues/BrunoCostaGH/42cursus-ft_printf?style=for-the-badge)
+![GitHub Release Date](https://img.shields.io/github/release-date/BrunoCostaGH/42cursus-ft_printf?style=for-the-badge)
+![GitHub release (latest by date)](https://img.shields.io/github/v/release/BrunoCostaGH/42cursus-ft_printf?style=for-the-badge)
