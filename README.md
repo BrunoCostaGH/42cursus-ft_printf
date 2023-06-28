@@ -1,4 +1,4 @@
-# 42cursus-ft_printf ([Subject](https://cdn.intra.42.fr/pdf/pdf/57692/en.subject.pdf))
+# 42cursus-ft_printf ([Subject](https://github.com/BrunoCostaGH/42cursus-ft_printf/blob/master/.github/en.subject.pdf))
 
 ## Description
 This project is pretty straightforward, you have to recode printf. You will learn what is and how to implement variadic functions. Once you validate it, you will reuse this function in your future projects.
